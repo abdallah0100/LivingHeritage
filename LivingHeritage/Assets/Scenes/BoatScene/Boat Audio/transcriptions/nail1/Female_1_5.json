@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_1_5",
+  "cues": [
+    { "start": 0.0, "end": 5.5,
+      "lines": [ { "lang": "en", "text": "Let's search around. If there's one nail, there must be more close by." } ]
+    }
+  ]
+}

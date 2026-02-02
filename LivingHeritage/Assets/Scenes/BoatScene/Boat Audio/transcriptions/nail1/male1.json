@@ -1,0 +1,8 @@
+{
+  "audioId": "Male_1",
+  "cues": [
+    { "start": 0.0, "end": 4,
+      "lines": [ { "lang": "en", "text": "Wait, hold on. What's that in the sand?" } ]
+    }
+  ]
+}

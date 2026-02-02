@@ -1,0 +1,8 @@
+{
+  "audioId": "Introduction_1",
+  "cues": [
+    { "start": 0.0, "end": 10.0,
+      "lines": [ { "lang": "en", "text": "Hard to believe we get to call this work. A quiet beach, good weather. Honestly, I could get used to this." } ]
+    }
+  ]
+}

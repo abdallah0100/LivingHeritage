@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_1",
+  "cues": [
+    { "start": 0.0, "end": 6.5,
+      "lines": [ { "lang": "en", "text": "Hmm, that looks like a nail. But not modern. Look at the corrosion. The shape." } ]
+    }
+  ]
+}

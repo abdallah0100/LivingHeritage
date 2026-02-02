@@ -1,0 +1,8 @@
+{
+  "audioId": "Male_3_1",
+  "cues": [
+    { "start": 0.0, "end": 3.5,
+      "lines": [ { "lang": "en", "text": "A wooden plank, shaped too, This is definitely part of a hull." } ]
+    }
+  ]
+}

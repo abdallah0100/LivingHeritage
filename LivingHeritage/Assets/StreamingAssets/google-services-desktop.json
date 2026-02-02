@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1013892004067",
+    "firebase_url": "https://livingheritage-35937-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "livingheritage-35937",
+    "storage_bucket": "livingheritage-35937.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013892004067:android:a997d52c0efd3281fd6dd6",
+        "android_client_info": {
+          "package_name": "com.braude.livingheritage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwDjxR6phkD9EVM9Hm9fdtLdACDhjPrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

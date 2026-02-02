@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_Check",
+  "cues": [
+    { "start": 0.0, "end": 2.5,
+      "lines": [ { "lang": "en", "text": "Let's check this huge pile of sand." } ]
+    }
+  ]
+}

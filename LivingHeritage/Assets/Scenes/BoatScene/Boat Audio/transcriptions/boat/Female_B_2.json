@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_B_2",
+  "cues": [
+    { "start": 0.0, "end": 6.5,
+      "lines": [ { "lang": "en", "text": "Alright, time to document everything. This is going to be huge." } ]
+    }
+  ]
+}

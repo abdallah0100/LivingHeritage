@@ -1,0 +1,3 @@
+repository "LivingHeritage/LivingHeritage@18968344597272@cloud"
+  path "/"
+    smartbranch "/main"

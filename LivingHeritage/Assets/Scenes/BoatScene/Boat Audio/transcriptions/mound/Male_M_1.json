@@ -1,0 +1,8 @@
+{
+  "audioId": "Male_M_1",
+  "cues": [
+    { "start": 0.0, "end": 5.5,
+      "lines": [ { "lang": "en", "text": "If the sand covered the rest, we might have a boat underneath this." } ]
+    }
+  ]
+}

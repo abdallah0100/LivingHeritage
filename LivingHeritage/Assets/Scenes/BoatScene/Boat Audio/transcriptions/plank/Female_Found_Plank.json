@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_3",
+  "cues": [
+    { "start": 0.0, "end": 1.5,
+      "lines": [ { "lang": "en", "text": "Come look at this!" } ]
+    }
+  ]
+}

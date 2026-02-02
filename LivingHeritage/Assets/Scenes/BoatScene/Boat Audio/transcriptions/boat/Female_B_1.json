@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_B_1",
+  "cues": [
+    { "start": 0.0, "end": 7.5,
+      "lines": [ { "lang": "en", "text": "The curve of the wood, the joints. This is a real boat, a very old one." } ]
+    }
+  ]
+}

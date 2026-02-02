@@ -1,0 +1,8 @@
+{
+  "audioId": "Female_M_2",
+  "cues": [
+    { "start": 0.0, "end": 3.5,
+      "lines": [ { "lang": "en", "text": "Okay, let's remove the top sand layer first. It's loose. This shouldn't take long." } ]
+    }
+  ]
+}
